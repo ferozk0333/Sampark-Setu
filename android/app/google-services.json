@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929310641813",
+    "project_id": "mp-floom",
+    "storage_bucket": "mp-floom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929310641813:android:9dd525b6946d3d4ced159c",
+        "android_client_info": {
+          "package_name": "com.example.floom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929310641813-uh9624vvknhlh78q9n5qmrlk06lil1ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XrwP-uTMFjz67iNl91qhbpEDN26zVC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929310641813-uh9624vvknhlh78q9n5qmrlk06lil1ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
