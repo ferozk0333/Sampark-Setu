@@ -1,4 +1,4 @@
-# floom
+# Sampark Setu: A Video Conferencing App using Flutter
 
 A new Flutter application.
 
